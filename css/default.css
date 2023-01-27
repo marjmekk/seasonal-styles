@@ -17,7 +17,11 @@ img.flexible {
 	max-width:300px; /* actual size of image */
 	width:33%; /* approximate size taken on screen in maximum view */
 }
-p {margin:10px;}
+p {
+	margin:20px;
+	padding-top: 0.5px;
+	line-height: 1.5;
+}
 
 h1,h2,h3,h4,h5,h6{
 	font-weight:normal;
